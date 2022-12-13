@@ -2,7 +2,7 @@
 
 -Banco de Dados
 
-Rodar o arquivo "BancoDados" no MySQL WorkBench
+Rodar o arquivo "BancoDados.sql" no MySQL WorkBench
 
 -Back-end (server)
 
