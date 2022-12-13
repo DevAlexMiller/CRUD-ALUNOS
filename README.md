@@ -4,7 +4,7 @@
 
 Rodar o arquivo "BancoDados" no MySQL WorkBench
 
--Back-end (Server)
+-Back-end (server)
 
 Comandos:
 
@@ -12,7 +12,7 @@ Comandos:
 
 ``node ./index.js``
 
--Front-end (src)
+-Front-end (client)
 
 Comandos:
 
